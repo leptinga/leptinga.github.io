@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://leptinga.github.io/sitemap.leptinga.gz
+Sitemap: https://leptinga.github.io/app/sitemap.leptinga.gz
+Sitemap: https://leptinga.github.io/assets/sitemap.leptinga.gz
+Sitemap: https://leptinga.github.io/css/sitemap.leptinga.gz
+Sitemap: https://leptinga.github.io/data/sitemap.leptinga.gz
+Sitemap: https://leptinga.github.io/includes/sitemap.leptinga.gz
+Sitemap: https://leptinga.github.io/item/sitemap.leptinga.gz
+Sitemap: https://leptinga.github.io/src/sitemap.leptinga.gz
